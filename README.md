@@ -19,8 +19,8 @@ Make sure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/llama-chatbot-groq.git
-   cd llama-chatbot-groq
+   git clone https://github.com/AJI127896/GenAI_Llama_Project.git
+   cd GenAI_Llama_Project
    ```
 2. Install dependencies:
    ```sh
