@@ -55,9 +55,6 @@ GenAI_Llama_Project/
 ## Contributing
 Feel free to submit issues, feature requests, or pull requests. Contributions are welcome!
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any queries, reach out to `ameyj1278@gmail.com` or open an issue on GitHub.
 
